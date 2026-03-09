@@ -51,11 +51,11 @@ Ce repository fournit des ressources pratiques pour :
 
 Documentation :
 
-https://github.com/fwagents/frameworksagents
+https://github.com/frameworksagents/frameworksagents
 
 Exemples :
 
-https://github.com/fwagents/ai-agent-examples
+https://github.com/frameworksagents/ai-agent-examples
 
 ---
 
